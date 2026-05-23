@@ -1,14 +1,24 @@
 <div align="center">
 
-# Hi 👋 I'm Shubham Chaudhari
+# Hi 👋, I'm Shubham Chaudhari
 
 ### 🚀 MERN Stack Developer | B.Tech CSE Student | Passionate Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Learning+Full+Stack+Development;Java+%7C+JavaScript+%7C+React;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Learning+Modern+Web+Development;Java+%7C+JavaScript+%7C+React;Building+Scalable+Web+Applications" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shubham999k&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 👨‍💻 About Me
 
@@ -19,13 +29,15 @@
 - ⚡ Focused on improving DSA and development skills  
 - 🔥 Consistent learner and tech enthusiast  
 
+<br>
+
 ---
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/Shubham999k">
+<a href="https://github.com/Shubham999k" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -45,13 +57,32 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,figma,canva&perline=8" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Current Learning Journey
+
+<div align="center">
+
+```text
+🌱 MERN Stack Journey
+
+┣━━ ⚛️ React.js
+┣━━ 🌐 Node.js
+┣━━ 🚀 Express.js
+┣━━ 🍃 MongoDB
+┣━━ 🎨 Tailwind CSS
+┗━━ 🔥 Full Stack Projects
+```
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -67,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham999k&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham999k&theme=github-dark-blue&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -93,16 +124,15 @@
 
 ---
 
-# ⚡ Current Learning Journey
+# ⚡ Development Stats
 
-```text
-🌱 Learning MERN Stack
-┣━━ ⚛️ React.js
-┣━━ 🌐 Node.js
-┣━━ 🚀 Express.js
-┣━━ 🍃 MongoDB
-┗━━ 🎨 Tailwind CSS
-```
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham999k&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham999k&theme=github_dark"/>
+
+</div>
 
 ---
 
@@ -120,7 +150,17 @@
 
 <div align="center">
 
-### “Consistency and continuous learning build great developers.”
+### “Consistency and continuous learning build great developers.” 🚀
+
+</div>
+
+---
+
+# ⚡ Fun Coding Animation
+
+<div align="center">
+
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
@@ -129,5 +169,7 @@
 <div align="center">
 
 ## 🚀 Code • Learn • Build • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
