@@ -107,25 +107,6 @@ src="https://streak-stats.demolab.com?user=Shubham999k&theme=tokyonight&hide_bor
 </div>
 
 ---
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=Shubham999k&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
-/>
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham999k&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-/>
-
-</div>
-
----
-
 # 📊 Contribution Graph
 
 <div align="center">
