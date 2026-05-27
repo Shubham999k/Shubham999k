@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 # Hi 👋, I'm Shubham Chaudhari
 
@@ -101,12 +101,31 @@ src="https://skillicons.dev/icons?i=html,css,javascript,java,python,react,nodejs
 <div align="center">
 
 <img 
-src="https://streak-stats.demolab.com?user=Shubham999k&theme=tokyonight&hide_border=true&border_radius=15&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"
+src="https://streak-stats.demolab.com?user=Shubham999k&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=1&v=3"
 />
 
 </div>
 
 ---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=Shubham999k&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
+/>
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham999k&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+</div>
+
+---
+
 # 📊 Contribution Graph
 
 <div align="center">
@@ -200,4 +219,3 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,
 />
 
 </div>
-```
