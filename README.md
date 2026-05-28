@@ -3,7 +3,7 @@
 # Hi 👋, I'm Shubham Chaudhari
 
 ### 🚀 MERN Stack Developer | B.Tech CSE Student | Passionate Programmer
-
+ 
 <img 
 src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;Java+%7C+JavaScript+%7C+React;Learning+MERN+Stack;Consistent+Daily+Coder+🔥" 
 />
