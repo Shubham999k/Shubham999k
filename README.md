@@ -44,12 +44,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham999k&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham999k&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
