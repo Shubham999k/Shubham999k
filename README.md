@@ -33,18 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham999k&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham999k&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -60,16 +48,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham999k&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham999k&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
