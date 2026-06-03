@@ -80,10 +80,7 @@ JWT Authentication using MERN Stack
 ```text
 React.js      ███████████████░ 95%
 JavaScript    ██████████████░░ 90%
-Node.js       ███████████░░░░░ 75%
-Express.js    ██████████░░░░░░ 70%
 MongoDB       █████████░░░░░░░ 65%
-Redux         ███████░░░░░░░░░ 55%
 ```
 
 ## 🎯 2026 Goals
