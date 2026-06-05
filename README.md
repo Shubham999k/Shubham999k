@@ -28,6 +28,26 @@
 </p>
 
 ---
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham999k&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shubham999k&theme=github-dark&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham999k&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
