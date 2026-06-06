@@ -58,25 +58,6 @@ JWT Authentication using MERN Stack.
 
 ---
 
-## 📚 Currently Learning
-
-```text
-React.js      ████████████████████ 95%
-JavaScript    ██████████████████░░ 90%
-Node.js       ████████████████░░░░ 80%
-MongoDB       ██████████████░░░░░░ 70%
-DSA           █████████████░░░░░░░ 65%
-```
-
----
-
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/shubham999k
-* Email: [shubhamchaudharik485@gmail.com](mailto:shubhamchaudharik485@gmail.com)
-
----
-
 ## ☕ Fun Fact
 
 ```javascript
@@ -88,9 +69,6 @@ while (!success)
     repeat();
 }
 ```
-
----
-
 ### ⭐ Thanks For Visiting My Profile ⭐
 
 🚀 Keep Learning • Keep Building • Keep Growing 🚀
