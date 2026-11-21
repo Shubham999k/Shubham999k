@@ -1,175 +1,268 @@
 <div align="center">
 
-# Shubham Chaudhari
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,40:101D35,100:0066A6&text=SHUBHAM%20CHAUDHARI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" />
 
-### Full Stack Developer | MERN Stack | Software Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Passionate+About+Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Engineering+Ideas+Into+Reality" />
 
 <br/>
 
 <a href="https://github.com/shubham999k">
-<img src="https://komarev.com/ghpvc/?username=shubham999k&style=flat-square&color=blue" />
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/shubham999k?tab=followers">
-<img src="https://img.shields.io/github/followers/shubham999k?style=flat-square&color=blue" />
+<a href="https://github.com/shubham999k?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" />
+</a>
+<a href="https://subbhi-quiz.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Project-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
+<br/>
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+## 👨‍💻 Developer Profile
+
+I'm a Full Stack Developer focused on building modern, scalable, and user-friendly web applications.
+
+I enjoy transforming ideas into functional products through clean architecture, thoughtful UI design, and efficient backend development.
+
+**Current Focus**
+- Full Stack Web Development
+- React & TypeScript
+- Node.js & Backend Architecture
+- Database Design
+- Data Structures & Algorithms
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media3.giphy.com/media/3oxHQATtRER8NkKGOc/giphy.gif" width="220" alt="Iron Man animation" />
+
+**Engineering • Creativity • Innovation**
+
+</td>
+</tr>
+</table>
+
 ---
 
-## About Me
-
-I'm a Full Stack Developer interested in designing and developing modern web applications. I enjoy working across frontend and backend technologies, building practical solutions, and continuously improving my engineering skills.
-
-- Developing full-stack web applications using the MERN stack.
-- Building responsive and interactive user interfaces.
-- Designing RESTful APIs and backend services.
-- Working with databases and application architecture.
-- Practicing Data Structures and Algorithms.
-- Exploring modern development tools and technologies.
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|---|---|
-| Frontend | HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js |
-| UI & Styling | Tailwind CSS, Bootstrap, Material UI |
-| Backend | Node.js, Express.js |
-| Databases | MongoDB, MySQL |
-| Programming | Java, Python |
-| Tools | Git, GitHub, VS Code, Postman |
-| Concepts | REST APIs, JWT Authentication, DSA |
+## ⚙️ Technical Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,mui,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman" />
+### FRONTEND ENGINEERING
 
-</div>
-
----
-
-## Featured Projects
-
-### Smart Education – Learning Management System
-
-A comprehensive learning management platform designed to improve digital education and academic management.
-
-- Course and module management.
-- Student learning progress tracking.
-- Assignments and online assessments.
-- Quiz performance analytics.
-- Attendance and learning management.
-
-**Technologies:** React, Node.js, Express.js, MongoDB
-
-### Quiz Application
-
-An interactive online quiz platform providing an engaging assessment experience.
-
-- Interactive quiz interface.
-- Question-based assessments.
-- Responsive user interface.
-- Online deployment.
-
-**Live Application:** [subbhi-quiz.vercel.app](https://subbhi-quiz.vercel.app/)
-
-### Cravings – Food Application
-
-A modern food application focused on providing an intuitive food discovery and browsing experience.
-
-**Technologies:** React, JavaScript
-
-### AI-Powered Resume Builder
-
-An application concept focused on simplifying professional resume creation through AI-assisted workflows.
-
-**Focus:** React, Backend Development, AI Integration
-
-### E-Notes Platform
-
-An educational resource platform designed to organize and provide access to digital learning materials.
-
-**Focus:** Full Stack Development, Database Management
-
-### E-Library
-
-A digital library management concept for organizing and accessing educational resources.
-
-**Focus:** Web Development, Database Management
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham999k&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham999k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,mui&perline=9" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=shubham999k&theme=tokyonight&hide_border=true" />
+### BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=6" />
+
+<br/><br/>
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,python&perline=6" />
+
+<br/><br/>
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel&perline=6" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Smart Education LMS
+
+A learning management platform designed to streamline digital education.
+
+- Course and module management
+- Online quizzes and assignments
+- Student progress tracking
+- Performance analytics
+- Learning management workflows
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+**Status:** In Development
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Quiz Application
+
+An interactive web application for online assessments.
+
+- Interactive quiz interface
+- Question-based assessments
+- Responsive frontend
+- Deployed application
+
+**Stack**
+
+`React` `JavaScript` `CSS`
+
+[VIEW LIVE APPLICATION ↗](https://subbhi-quiz.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍔 Cravings
+
+A food application focused on an intuitive food discovery experience.
+
+- Modern application interface
+- Component-based architecture
+- Responsive UI development
+
+**Stack**
+
+`React` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Builder
+
+An AI-powered resume-building project concept.
+
+- Structured resume creation
+- AI-assisted content generation
+- Professional resume presentation
+
+**Focus**
+
+`React` `Node.js` `AI Integration`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 E-Notes Platform
+
+An educational platform for organizing digital learning materials.
+
+- Digital notes organization
+- Educational resource management
+- Student-focused interface
+
+**Focus**
+
+`Full Stack Development` `Database Design`
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 E-Library
+
+A digital library management project concept.
+
+- Digital resource organization
+- Library management workflows
+- Educational content accessibility
+
+**Focus**
+
+`Web Development` `Database Management`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham999k&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham999k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham999k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats-eight.vercel.app/?user=shubham999k&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Currently Learning & Improving
+## 📈 Contribution Activity
 
-- Advanced React and TypeScript
-- Backend Architecture
-- Data Structures and Algorithms
-- Database Optimization
-- Scalable Application Development
-- Software Engineering Best Practices
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham999k&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-## Development Philosophy
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shubham999k/shubham999k/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🧠 Development Philosophy
 
 <div align="center">
 
 ```javascript
+const developer = {
+    name: "Shubham Chaudhari",
+    role: "Full Stack Developer",
+    stack: ["React", "TypeScript", "Node.js", "MongoDB"],
+    approach: "Learn by Building",
+    objective: "Create Impactful Software"
+};
+
 while (true) {
     learn();
-    build();
-    solve();
+    engineer();
+    experiment();
     improve();
 }
 ```
-
-**Consistent Learning. Practical Development. Continuous Improvement.**
 
 </div>
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=Thanks+for+exploring+my+profile.;Let's+build+something+meaningful." />
+
+<br/>
+
 <a href="https://github.com/shubham999k">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT%20ON-GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066A6,50:101D35,100:050505&height=120&section=footer" />
 
 </div>
