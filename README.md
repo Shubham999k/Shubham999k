@@ -156,7 +156,13 @@ A digital library application concept for organizing and managing learning resou
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubham999k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+<a href="https://github.com/shubham999k">
+  <img src="https://img.shields.io/badge/GitHub-View_My_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Explore my GitHub profile to see my achievements, contributions, repositories, and development activity.**
 
 </div>
 
