@@ -40,8 +40,6 @@ I enjoy transforming ideas into functional products through clean architecture, 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media3.giphy.com/media/3oxHQATtRER8NkKGOc/giphy.gif" width="220" alt="Iron Man animation" />
-
 **Engineering • Creativity • Innovation**
 
 </td>
@@ -213,18 +211,6 @@ A digital library management project concept.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham999k&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shubham999k/shubham999k/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
-
-</div>
-
----
 
 ## 🧠 Development Philosophy
 
