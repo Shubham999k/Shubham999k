@@ -1,138 +1,116 @@
 <div align="center">
 
-# 👋 Hi, I'm Shubham Chaudhari
+# Shubham Chaudhari
 
-### Full Stack Developer | MERN Stack | Software Developer
+### Full Stack Developer | MERN Stack | Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Real+World+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+Ideas+Into+Reality;Code.+Build.+Innovate." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Passionate+About+Problem+Solving" />
 
-<img src="https://komarev.com/ghpvc/?username=shubham999k&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<br/>
+
+<a href="https://github.com/shubham999k">
+<img src="https://komarev.com/ghpvc/?username=shubham999k&style=flat-square&color=blue" />
+</a>
+
+<a href="https://github.com/shubham999k?tab=followers">
+<img src="https://img.shields.io/github/followers/shubham999k?style=flat-square&color=blue" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Full Stack Developer passionate about building scalable applications and solving real-world problems through technology.
+I'm a Full Stack Developer interested in designing and developing modern web applications. I enjoy working across frontend and backend technologies, building practical solutions, and continuously improving my engineering skills.
 
-- 💻 Developing full-stack web applications.
-- ⚛️ Building interactive interfaces using React.
-- 🌐 Developing backend services using Node.js and Express.
-- 🗄️ Working with MongoDB and MySQL.
-- 🔐 Implementing authentication and REST APIs.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🚀 Turning innovative ideas into functional applications.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,mui" />
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+- Developing full-stack web applications using the MERN stack.
+- Building responsive and interactive user interfaces.
+- Designing RESTful APIs and backend services.
+- Working with databases and application architecture.
+- Practicing Data Structures and Algorithms.
+- Exploring modern development tools and technologies.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 1. 🎓 LMS Pro – Learning Management System
-
-**A full-stack learning management platform designed for students, teachers, and administrators.**
-
-- Role-based dashboards for students, teachers, and administrators.
-- Course, module, and topic management.
-- Online quizzes and assignments.
-- Attendance and performance tracking.
-- Progress analytics and learning reports.
-- Notifications, messaging, and gamification.
-- JWT-based authentication and authorization.
-
-**Tech Stack:** React, Redux Toolkit, Node.js, Express.js, MongoDB, Mongoose, Socket.IO
-
-**Status:** In Development
-
----
-
-### 2. 📝 Subbhi Quiz – Online Quiz Application
-
-An interactive quiz application designed to provide an engaging online assessment experience.
-
-- Interactive quiz interface.
-- Question-based assessment workflow.
-- Responsive frontend experience.
-- Online deployment.
-
-**Tech Stack:** React, JavaScript, CSS
-
-**Live Demo:** https://subbhi-quiz.vercel.app/
-
----
-
-### 3. 🍔 Cravings – Food Application
-
-A food application concept focused on providing a smooth and user-friendly food discovery and ordering experience.
-
-- Modern food application interface.
-- Responsive application design.
-- Component-based frontend development.
-
-**Tech Stack:** React
-
----
-
-### 4. 🤖 AI-Powered Resume Builder
-
-An AI-focused resume-building application designed to help users create professional resumes.
-
-- Resume creation workflow.
-- Structured resume information.
-- AI-assisted resume generation concept.
-- Professional resume presentation.
-
-**Focus:** Full Stack Development, AI Integration
-
----
-
-### 5. 📚 E-Notes Platform
-
-A digital learning resource platform focused on making educational notes accessible and organized.
-
-- Digital notes management concept.
-- Organized educational resources.
-- Student-focused learning experience.
-
-**Focus:** EdTech, Full Stack Development
-
----
-
-### 6. 📖 E-Library Management System
-
-A digital library application concept for organizing and managing learning resources.
-
-- Digital resource organization.
-- Library management workflow.
-- Accessible learning materials.
-
-**Focus:** Database Management, Full Stack Development
-
----
-
-## 📊 GitHub Statistics
+| Category | Technologies |
+|---|---|
+| Frontend | HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js |
+| UI & Styling | Tailwind CSS, Bootstrap, Material UI |
+| Backend | Node.js, Express.js |
+| Databases | MongoDB, MySQL |
+| Programming | Java, Python |
+| Tools | Git, GitHub, VS Code, Postman |
+| Concepts | REST APIs, JWT Authentication, DSA |
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham999k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,mui,nodejs,express,mongodb,mysql,java,python,git,github,vscode,postman" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham999k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## Featured Projects
+
+### Smart Education – Learning Management System
+
+A comprehensive learning management platform designed to improve digital education and academic management.
+
+- Course and module management.
+- Student learning progress tracking.
+- Assignments and online assessments.
+- Quiz performance analytics.
+- Attendance and learning management.
+
+**Technologies:** React, Node.js, Express.js, MongoDB
+
+### Quiz Application
+
+An interactive online quiz platform providing an engaging assessment experience.
+
+- Interactive quiz interface.
+- Question-based assessments.
+- Responsive user interface.
+- Online deployment.
+
+**Live Application:** [subbhi-quiz.vercel.app](https://subbhi-quiz.vercel.app/)
+
+### Cravings – Food Application
+
+A modern food application focused on providing an intuitive food discovery and browsing experience.
+
+**Technologies:** React, JavaScript
+
+### AI-Powered Resume Builder
+
+An application concept focused on simplifying professional resume creation through AI-assisted workflows.
+
+**Focus:** React, Backend Development, AI Integration
+
+### E-Notes Platform
+
+An educational resource platform designed to organize and provide access to digital learning materials.
+
+**Focus:** Full Stack Development, Database Management
+
+### E-Library
+
+A digital library management concept for organizing and accessing educational resources.
+
+**Focus:** Web Development, Database Management
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham999k&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham999k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
@@ -142,7 +120,7 @@ A digital library application concept for organizing and managing learning resou
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -152,59 +130,37 @@ A digital library application concept for organizing and managing learning resou
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/shubham999k">
-  <img src="https://img.shields.io/badge/GitHub-View_My_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Explore my GitHub profile to see my achievements, contributions, repositories, and development activity.**
-
-</div>
-
----
-
-## 🎯 Currently Focusing On
+## Currently Learning & Improving
 
 - Advanced React and TypeScript
-- Full Stack Application Architecture
-- Backend Development and REST APIs
+- Backend Architecture
 - Data Structures and Algorithms
-- Database Design and Optimization
-- Clean Code and Software Engineering
+- Database Optimization
+- Scalable Application Development
+- Software Engineering Best Practices
 
 ---
 
-## 💡 My Development Philosophy
+## Development Philosophy
 
 <div align="center">
 
 ```javascript
-const developer = {
-    name: "Shubham Chaudhari",
-    role: "Full Stack Developer",
-    stack: ["React", "Node.js", "Express", "MongoDB"],
-    mindset: "Never Stop Learning",
-    mission: "Build. Solve. Innovate."
-};
-
 while (true) {
     learn();
     build();
-    solveProblems();
+    solve();
     improve();
 }
 ```
+
+**Consistent Learning. Practical Development. Continuous Improvement.**
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -214,10 +170,6 @@ while (true) {
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Growing**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%" />
 
 </div>
